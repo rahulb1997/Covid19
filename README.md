@@ -25,29 +25,51 @@ Deaths: Deaths reported
 Confirmed: Sum of the Indian and foreign cases 
 
 <h3>covid_vaccine_statewise.csv </h3>
-Updated On: Date of update
+Updated On: Date of update 
+<br>
 State: Country
 Total Doses Administered:The total number of vaccine doses administered, including both the first and second doses.
+<br>
 Sessions:The number of vaccine administration sessions conducted.
+<br>
 Sites:The number of vaccination sites where doses were administered.
+<br>
 First Dose Administered:The total number of individuals who received the first dose of the vaccine.
+<br>
 Second Dose Administered:The total number of individuals who received the second dose of the vaccine.
+<br>
 Male (Doses Administered):The number of vaccine doses administered to male individuals.
+<br>
 Female (Doses Administered):The number of vaccine doses administered to female individuals.
+<br>
 Transgender (Doses Administered):The number of vaccine doses administered to transgender individuals.
+<br>
 Covaxin (Doses Administered):The number of doses of Covaxin vaccine administered.
+<br>
 CoviShield (Doses Administered):The number of doses of CoviShield vaccine administered.
+<br>
 Sputnik V (Doses Administered):The number of doses of Sputnik V vaccine administered.
+<br>
 AEFI:Adverse Events Following Immunization - information related to any adverse events reported after vaccination.
+<br>
 18-44 Years (Doses Administered):The number of vaccine doses administered to individuals in the age group of 18-44 years.
+<br>
 45-60 Years (Doses Administered):The number of vaccine doses administered to individuals in the age group of 45-60 years.
+<br>
 60+ Years (Doses Administered):The number of vaccine doses administered to individuals aged 60 years and above.
+<br>
 18-44 Years (Individuals Vaccinated):The number of individuals in the age group of 18-44 years who have been vaccinated.
+<br>
 45-60 Years (Individuals Vaccinated):The number of individuals in the age group of 45-60 years who have been vaccinated.
+<br>
 60+ Years (Individuals Vaccinated):The number of individuals aged 60 years and above who have been vaccinated.
+<br>
 Male (Individuals Vaccinated):The number of male individuals who have been vaccinated.
+<br>
 Female (Individuals Vaccinated):The number of female individuals who have been vaccinated.
+<br>
 Transgender (Individuals Vaccinated):The number of transgender individuals who have been vaccinated.
+<br>
 Total Individuals Vaccinated:The total number of individuals who have received at least one dose of the vaccine, including both first and second doses.
 
 <h3>StatewiseTestingDetails.csv</h3>
