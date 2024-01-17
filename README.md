@@ -2,26 +2,34 @@
 
 <h2>Overview</h2>
 This repository contains data related to the COVID-19 disease in India, collected statewise. The dataset includes information about the number of people who tested positive for the disease over time, as well as the number of vaccine doses administered.
-
+<br>
 The data is provided in three CSV files and is visually represented using Power BI for better insights and analysis.
 
 <h2>Files</h2>
 StatewiseTestingDetails.csv: This file contains information about the number of people who tested positive for COVID-19 in different states of India over time.
-
+<br>
 covid_vaccine_statewise.csv: This file includes data on the number of vaccine doses administered in various states of India, showing the progress of the vaccination campaign.
-
+<br>
 covid_19_india.csv: This file provides the data for number of cases coming each day.
 
 <h2>Data Structure</h2>
 <h3>covid_19_india.csv</h3>
 Sno: Serial number
+<br>
 Date: Date of case recorded
+<br>
 Time: Time of case recorded
+<br>
 State/UnionTerritory: Indian states or union territory
+<br>
 ConfirmedIndianNational: Number of Indian cases
+<br>
 ConfirmedForeignNational: Number of foreign cases
+<br>
 Cured: cured cases
+<br>
 Deaths: Deaths reported
+<br>
 Confirmed: Sum of the Indian and foreign cases 
 
 <h3>covid_vaccine_statewise.csv </h3>
@@ -74,9 +82,13 @@ Total Individuals Vaccinated:The total number of individuals who have received a
 
 <h3>StatewiseTestingDetails.csv</h3>
 Date: Date of test
+<br>
 State: Indian state or territory
+<br>
 TotalSamples: Total number of samples
+<br>
 Negative: Negative samples
+<br>
 Positive: Positive samples
 
 <h2>Visual Representation</h2>
