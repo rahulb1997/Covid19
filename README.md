@@ -62,4 +62,5 @@ The data in these CSV files is visually represented using Power BI. To gain mean
 
 <h2>Power BI Dashboard</h2>
 https://app.powerbi.com/groups/me/reports/f558c93a-9ded-4b78-b859-eb1e95870639/ReportSectiondbc157f20659ad70ada3?experience=power-bi
+<br>
 Feel free to explore the data and utilize the Power BI dashboard for a comprehensive understanding of the COVID-19 situation and vaccination progress in India. If you have any questions or need assistance, please don't hesitate to contact. Stay safe!
